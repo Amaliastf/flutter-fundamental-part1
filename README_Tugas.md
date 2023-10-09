@@ -1,6 +1,9 @@
 Amalia Salsa Lutfiana
 3F/04/2141720228
 
+Runtime awal :
+![Screenshot hello_world](images/01.png)
+
 # Praktikum 1#
 
  Langkah 1:
@@ -62,6 +65,9 @@ Langkah 11 :
 Kembali ke VS Code, ubah platform di pojok kanan bawah ke emulator atau device atau bisa juga menggunakan browser Chrome. Lalu coba running project hello_world dengan tekan F5 atau Run > Start Debugging. Tunggu proses kompilasi hingga selesai, maka aplikasi flutter pertama Anda akan tampil seperti berikut.
 ![Screenshot hello_world](images/Screenshot(2324).png)
 
+![gif hello_world](images/ezgif.com-video-to-gif.gif)
+
+
 Langkah 12 :
 Silakan screenshot seperti pada Langkah 11, namun teks yang ditampilkan dalam aplikasi berupa nama lengkap Anda. Simpan file screenshot dengan nama 01.png pada folder images (buat folder baru jika belum ada) di project hello_world Anda. Lalu ubah isi README.md seperti berikut, sehingga tampil hasil screenshot pada file README.md. Kemudian push ke repository Anda.
 - Terdapat pada file README.MD
@@ -88,6 +94,8 @@ Buat sebuah file image_widget.dart di dalam folder basic_widgets dengan isi kode
 ![Screenshot hello_world](images/Screenshot(2336).png)
 ![Screenshot hello_world](images/Screenshot(2335).png)
 
+![gif hello_world](images/prak3_logo.gif)
+
 
 # Praktikum 4 #
 
@@ -111,6 +119,8 @@ Ubah isi kode main.dart seperti berikut.
 ![Screenshot hello_world](images/Screenshot(2346).png)
 ![Screenshot hello_world](images/Screenshot(2347).png)
 
+![gif hello_world](images/prak4_increment.gif)
+
 Langkah 4: Dialog Widget
 Dialog widget pada flutter memiliki dua jenis dialog yaitu AlertDialog dan SimpleDialog.
 
@@ -122,6 +132,8 @@ Ubah isi kode main.dart seperti berikut.
 ![Screenshot hello_world](images/Screenshot(2349).png)
 ![Screenshot hello_world](images/Screenshot(2350).png)
 
+![gif hello_world](images/prak4_text.gif)
+
 Langkah 5: Input dan Selection Widget
 Flutter menyediakan widget yang dapat menerima input dari pengguna aplikasi yaitu antara lain Checkbox, Date and Time Pickers, Radio Button, Slider, Switch, TextField.
 
@@ -129,6 +141,8 @@ Contoh penggunaan TextField widget adalah sebagai berikut:
 ![Screenshot hello_world](images/Screenshot(2357).png)
 ![Screenshot hello_world](images/Screenshot(2355).png)
 ![Screenshot hello_world](images/Screenshot(2356).png)
+
+![gif hello_world](images/prak4_nama.gif)
 
 Langkah 6: Date and Time Pickers
 Date and Time Pickers termasuk pada kategori input dan selection widget, berikut adalah contoh penggunaan Date and Time Pickers.
@@ -139,6 +153,8 @@ Date and Time Pickers termasuk pada kategori input dan selection widget, berikut
 ![Screenshot hello_world](images/Screenshot(2358).png)
 ![Screenshot hello_world](images/Screenshot(2359).png)
 ![Screenshot hello_world](images/Screenshot(2360).png)
+
+![gif hello_world](images/prak4_tanggal.gif)
 
 
 # Tugas #
@@ -154,3 +170,5 @@ Date and Time Pickers termasuk pada kategori input dan selection widget, berikut
     ![Screenshot hello_world](images/Screenshot(2391).png)
     ![Screenshot hello_world](images/Screenshot(2382).png)
     ![Screenshot hello_world](images/Screenshot(2381).png)
+
+    ![gif hello_world](images/tugas.gif)
