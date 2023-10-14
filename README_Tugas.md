@@ -154,7 +154,7 @@ Date and Time Pickers termasuk pada kategori input dan selection widget, berikut
 ![Screenshot hello_world](images/Screenshot(2359).png)
 ![Screenshot hello_world](images/Screenshot(2360).png)
 
-![gif hello_world](images/prak4_tanggal.gif)
+![gif hello_world](images/prak4_tanggal.gif)P
 
 
 # Tugas #
